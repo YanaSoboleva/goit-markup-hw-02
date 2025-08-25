@@ -4,3 +4,23 @@ raleway-<uniquifier> {
     font-weight: <weight>;
     font-style: normal;
 }
+.logo .link:hover,
+.logo .link:focus {
+    color: #4D5AE5;
+}
+.nav .link:hover,
+.nav .link:focus {
+    color: #4D5AE5;
+}
+.contacts .link:hover,
+.contacts .link:focus {
+    color: #4D5AE5;
+}
+.button1 .link:hover,
+.button1 .link:focus {
+    color: #c97312;
+}
+.portfolio .link:hover,
+.portfolio .link:focus {
+    color: #c97312;
+}

@@ -1,26 +1,72 @@
 raleway-<uniquifier> {
     font-family: "Raleway", sans-serif;
     font-optical-sizing: auto;
-    font-weight: <weight>;
+    font-weight: 700;
     font-style: normal;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    font-size: 12px;
+    line-height: 24px;
 }
 .logo .link:hover,
 .logo .link:focus {
     color: #4D5AE5;
 }
+.nav {
+    color: #2E2F42;
+    background-color: #ffffff;
+}
 .nav .link:hover,
 .nav .link:focus {
     color: #4D5AE5;
+}
+.contacts {
+    color: #434455;
 }
 .contacts .link:hover,
 .contacts .link:focus {
     color: #4D5AE5;
 }
+h3 {
+color: #2E2F42;
+font-weight: medium;
+}
+main>p {
+    color: #434455;
+}
+.s1 {
+background-color: #2E2F42;
+}
+h1 {
+    color: #ffffff;
+    font-weight:bold;
+}
+h2 {
+    color: #2E2F42;
+    font-weight: bold;
+}
+.button1 {
+color: #ffffff;
+background-color: #4D5AE5;
+cursor: pointer;
+font-weight: medium;
+}
 .button1 .link:hover,
 .button1 .link:focus {
-    color: #c97312;
+    color: #4D5AE5;
 }
 .portfolio .link:hover,
 .portfolio .link:focus {
-    color: #c97312;
+    color: #4D5AE5;
+}
+.s2 {
+    background-color: #F4F4FD;
+}
+footer {
+    background-color: #2E2F42;
+}
+footer>p {
+  color: #F4F4FD;
 }

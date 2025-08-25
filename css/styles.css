@@ -9,13 +9,46 @@ body {
     color: #434455;
     font-size: 12px;
     line-height: 24px;
+    background-color: #ffffff;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 .logo .link:hover,
 .logo .link:focus {
     color: #4D5AE5;
 }
+.accent {
+    cfont-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
 .nav {
-    color: #2E2F42;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
     background-color: #ffffff;
 }
 .nav .link:hover,
@@ -23,6 +56,11 @@ body {
     color: #4D5AE5;
 }
 .contacts {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .contacts .link:hover,
@@ -30,22 +68,42 @@ body {
     color: #4D5AE5;
 }
 h3 {
-color: #2E2F42;
-font-weight: medium;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 main>p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     color: #434455;
 }
 .s1 {
    background-color: #2E2F42;
 }
 h1 {
-    color: #ffffff;
-    font-weight:bold;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
 }
 h2 {
-    color: #2E2F42;
-    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 .button1 {
   color: #ffffff;
@@ -68,5 +126,13 @@ footer {
     background-color: #2E2F42;
 }
 footer>p {
-  color: #F4F4FD;
+    cfont-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+.accent1 {
+    color: #f4f4fd;
 }

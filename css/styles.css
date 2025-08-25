@@ -37,7 +37,7 @@ main>p {
     color: #434455;
 }
 .s1 {
-background-color: #2E2F42;
+   background-color: #2E2F42;
 }
 h1 {
     color: #ffffff;
@@ -48,10 +48,10 @@ h2 {
     font-weight: bold;
 }
 .button1 {
-color: #ffffff;
-background-color: #4D5AE5;
-cursor: pointer;
-font-weight: medium;
+  color: #ffffff;
+  background-color: #4D5AE5;
+  cursor: pointer;
+  font-weight: medium;
 }
 .button1 .link:hover,
 .button1 .link:focus {

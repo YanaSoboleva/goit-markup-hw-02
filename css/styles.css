@@ -40,13 +40,13 @@ body {
 .nav .link:focus {
     color: #404bbf;
 }
-.nav-list {
+.nav-list .link {
     color: #2e2f42;
 }
 .adres {
     font-style: normal;
 }
-.contacts .contacts-menu {
+.contacts-menu {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;

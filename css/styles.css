@@ -44,15 +44,13 @@ body {
 }
 .nav .link:hover,
 .nav .link:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
-.nav-menu {
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+.nav-list {
     color: #2e2f42;
+}
+.adres {
+    font-style: normal;
 }
 .contacts .contacts-menu {
     font-family: "Roboto", sans-serif;
@@ -77,6 +75,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    text-transform: capitalize;
 }
 .button-first {
     font-family: "Roboto", sans-serif;
@@ -85,7 +84,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    background: #4d5ae5;
+    background-color: #4d5ae5;
 }
 .button1 .link:hover,
 .button1 .link:focus {
@@ -99,6 +98,10 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
+}
+.our-team {
+    background-color: #FFFFFF;
 }
 .subtitle {
     font-family: "Roboto", sans-serif;
@@ -123,7 +126,7 @@ body {
 .section-third {
     background-color: #F4F4FD;
 }
-footer {
+.footer {
     background-color: #2E2F42;
 }
 .logo-footer {

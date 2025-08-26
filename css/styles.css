@@ -60,8 +60,8 @@ body {
     letter-spacing: 0.02em;
     color: #434455;
 }
-.contacts-menu:hover,
-.contacts-menu:focus {
+.contacts-menu .link:hover,
+.contacts-menu .link:focus {
     color: #4D5AE5;
 }
 .section-first {
